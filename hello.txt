@@ -8,3 +8,4 @@ this line also in feature2.
 this line is also in feature2.
 
 this line in feature3.
+this line is also in feature3.
